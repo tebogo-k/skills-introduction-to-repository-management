@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @tebogo-k
+/src/backend/database.py      @tebogo-k
+/src/backend/routers/auth.py  @tebogo-k
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @tebogo-k
